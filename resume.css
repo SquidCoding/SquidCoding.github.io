@@ -66,3 +66,9 @@ ul {
     font-style: italic;
     font-size: 10px;
 }
+
+.JobDates {
+    font-size: 80%;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
