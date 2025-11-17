@@ -53,25 +53,24 @@ ul {
 }
 
 .EduInfo {
-    margin-top: 15px;
+    margin-top: 10px;
     margin-bottom: 5px;
     font-weight: bold;
-    font-size: 90%;
 }
 
 .EduInfoList {
-    padding-left: 40px;
+    padding-left: 50px;
 }
 
 .EduSpecs {
     font-style: italic;
-    font-size: 10px;
+    font-size: 80%;
 }
 
 .JobDates {
     font-size: 80%;
     font-weight: lighter;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-top: 5px;
+    padding-top: 10px;
     margin-bottom: 0%;
 }
