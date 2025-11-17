@@ -38,7 +38,7 @@ hr {
 }
 
 .section-title {
-    width: 25%;
+    width: 10%;
     font-weight: bold;
     text-decoration: underline;
 }
@@ -53,13 +53,14 @@ ul {
 }
 
 .EduInfo {
-    margin-top: 10px;
+    margin-top: 15px;
     margin-bottom: 5px;
     font-weight: bold;
+    font-size: 90%;
 }
 
 .EduInfoList {
-    padding-left: 20px;
+    padding-left: 40px;
 }
 
 .EduSpecs {
@@ -72,4 +73,5 @@ ul {
     font-weight: lighter;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 5px;
+    margin-bottom: 0%;
 }
