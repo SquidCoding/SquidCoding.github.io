@@ -38,14 +38,13 @@ hr {
 }
 
 .section-title {
-    width: 10%;
+    width: 25%;
     font-weight: bold;
     text-decoration: underline;
-    padding-right: 5px;
 }
 
 .section-content {
-    margin-left: 10px;
+    width: 75%;
 }
 
 ul {
