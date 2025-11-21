@@ -1,41 +1,40 @@
 body {
-    background: #54ab61;
+    background: #1f2243;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: maroon;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 .About {
-    color: darkred;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .Skills {
-    color: darkred;
+    display: flex;
+    margin-bottom: 20px;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .Projects {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.Projects {
-    width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: darkred;
-    border-radius: 25%;
+    background: white;
+}
+
+.Projects h3 {
+    text-align: center;
+    font-size: 25px;
 }
 
 .Projects img {
-    width: 900px;
-    height: 900px;
+    width: 250px;
     margin: 10px;
-    border: 2px solid rgb(101, 2, 2);
+    border: 2px solid rgb(255, 255, 255);
     display: block;
     margin: auto;
 }
@@ -46,6 +45,6 @@ h1 {
 }
 
 .Contact {
-    color: darkred;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
